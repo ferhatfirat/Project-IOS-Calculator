@@ -28,7 +28,7 @@ body{
     border: 0.05rem solid black;
     width: 2rem;
     height: 3rem;
-    text-align: center;
+    align-items: center;
     padding: 1rem;
     margin: 0.2rem;
     border-radius: 1rem;

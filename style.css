@@ -28,7 +28,10 @@ body{
     border: 0.05rem solid black;
     width: 2rem;
     height: 3rem;
+<<<<<<< HEAD
     text-align: center;
+=======
+>>>>>>> 95ca6f70bad104ee37a3336b505b08924d790805
     align-items: center;
     padding: 1rem;
     margin: 0.2rem;
@@ -78,4 +81,17 @@ color: black;
 .item14,.item15,.item16,.item17,.item18{
     background-color:#F79000;
 }
+<<<<<<< HEAD
 
+=======
+.value{
+    color: white;
+    text-align: right;
+    font-size: 2rem;
+}
+.result{
+    color: white;
+    text-align: right;
+    font-size: 1.5rem;
+}
+>>>>>>> 95ca6f70bad104ee37a3336b505b08924d790805
